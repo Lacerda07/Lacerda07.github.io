@@ -1048,5 +1048,6 @@
 
 .btn:hover {
     background-color: #7fad39;
-    color: white;
+   color: white;
 }
+a{text-decoration: none;}
